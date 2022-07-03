@@ -1,0 +1,12 @@
+p{
+    font-size: 3em;
+}
+small{
+    display: block;
+}
+b{
+    display: flex;
+}
+h3{
+    display: inline;
+}
