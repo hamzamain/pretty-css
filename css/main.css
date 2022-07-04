@@ -1,12 +1,63 @@
-p{
+p {
     font-size: 3em;
 }
-small{
+
+small {
     display: block;
 }
-b{
+
+b {
     display: flex;
 }
-h3{
+
+h3 {
     display: inline;
+}
+
+
+
+div {
+    width: 50%;
+    /* display: inline; */
+}
+
+section {
+    display: flex;
+}
+
+div.abc {
+    height: 100px;
+    width: 50%;
+    background-color: red;
+    margin-top: 10px;
+}
+
+div.c {
+    background-color: green;
+}
+
+.image {
+    /* background-color: red; */
+}
+
+img {
+    width: 80%;
+    margin: 50px;
+    /* background-color: red; */
+
+}
+
+.abc h1 {
+    font-size: 50px;
+    height: 90px;
+}
+
+.sa {
+    height: 200px;
+    width: 50%;
+    color: white;
+}
+
+.flex {
+    display: flex;
 }
